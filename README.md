@@ -1,7 +1,7 @@
 # React-Login-SignUp-Form
 React Simple Form
 
-Netlify Link : https://main--dynamic-bavarois-f6ae77.netlify.app/
+Netlify Link : https://tinyurl.com/m9rwpakt
 
 
 ![Alt text](image.png)
